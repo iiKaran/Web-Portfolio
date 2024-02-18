@@ -1,17 +1,17 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Teton Private Limited',
-        jobtitle: 'Software Engineer I',
-        startYear: 'Jan 2022',
-        endYear: 'Present'
+        company: 'WictroniX,Vadora Gujarat',
+        jobtitle: 'Full (MERN/MEAN) Stack Developer Intern',
+        startYear: 'Jun 2023',
+        endYear: 'Aug 2023'
     },
     {
         id: 2,
-        company: 'Fiverr(freelance)',
-        jobtitle: 'Full-Stack Developer',
-        startYear: 'Jun 2021',
-        endYear: 'Jan 2022'
+        company: 'WictroniX,Vadora Gujarat',
+        jobtitle: 'React Developer Intern',
+        startYear: 'Apr 2023',
+        endYear: 'Aug 2023'
     },
     {
         id: 3,

@@ -133,6 +133,8 @@ export const skillsImage = (skill) => {
             return vitejs;
         case 'vuetifyjs':
             return vuetifyjs;
+        case '':
+            return 
         case 'c':
             return c;
         case 'c++':

@@ -1,34 +1,34 @@
 import eight from '../assets/svg/projects/eight.svg'
 import seven from '../assets/svg/projects/seven.svg'
-import six from '../assets/svg/projects/six.svg'
+import six from '../assets/svg/projects/six.jpg'
 
 
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: '',
-        demo: 'https://www.aylanetworks.com/',
-        image: six
+        projectName: 'Ed-Tech Platform',
+        projectDesc: 'It is a Web Platform where instructor can post their courses while the student can learn from it',
+        tags: ['React-Redux', 'Tailwind CSS','Node js','Express js'],
+        code: 'https://github.com/iiKaran/An-Ed-Tech-Platform',
+        demo: 'https://an-ed-tech-platform.vercel.app/',
+        image: 'erm=ed+tech&track=ais&regularType=vector&page=2&position=12&uuid=f66c9a97-ee38-4736-b3c3-358fd38f8d70'
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        projectName: 'Sorting Visulizer',
+        projectDesc: 'It helps to See the Visuals of how the different sorting algorithms works on arrays',
+        tags: ['DSA', 'BootStrap', 'Vanila'],
+        code: 'https://github.com/iiKaran/Algorithim-Visulizer-',
+        demo: 'https://jovial-figolla-98a9f5.netlify.app',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
+        projectName: 'IMPULSE-Real Motivation',
+        projectDesc: 'It is a platform where the videos of influencers are listed ',
         tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        code: 'https://github.com/iiKaran/Impulse-A-world-of-Motivation',
+        demo: 'https://github.com/iiKaran/Impulse-A-world-of-Motivation',
         image: eight
     }
 ]
