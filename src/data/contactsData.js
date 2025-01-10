@@ -1,9 +1,9 @@
 export const contactsData = {
-    email: 'karankumar560k@gmail.com',
-    phone: '+91-9888563650',
-    address: 'Jalandhar,Punjab-144001 ',
-    github: 'https://github.com/iiKaran',
+    email: 'arsh44n.me@gmail.com',
+    phone: '+91-8979110246',
+    address: 'Aligarh,Uttar Pradesh-202001 ',
+    github: 'https://github.com/arshaankhan881',
     facebook: '#',
-    linkedIn: 'https://www.linkedin.com/in/karansehgal-developer',
-    twitter: 'https://twitter.com/karankumar560k',
+    linkedIn: 'https://www.linkedin.com/in/arshaan-khan-14544522b/?originalSubdomain=in',
+    twitter: 'https://twitter.com/',
 }

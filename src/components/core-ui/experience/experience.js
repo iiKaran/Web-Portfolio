@@ -15,10 +15,10 @@ function Experience() {
             <Container className="experience" id="experience">
                 <div className="experience-body">
                     <div className="experience-image">
-                        <AnimationLottie animationPath={experience} />
+                        <img className='' src={"https://img.freepik.com/free-vector/online-certification_23-2148568874.jpg?uid=R62141179&ga=GA1.1.2123235843.1735801392&semt=ais_hybrid"} alt="experience" />
                     </div>
                     <div className="experience-description">
-                        <h1 style={{ color: theme.primary }}>Experience</h1>
+                        <h1 style={{ color: theme.primary }}>Certifications</h1>
                         {experienceData.map(exp => (
                             <ExperienceCard
                                 key={exp.id}
